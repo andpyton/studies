@@ -1,3 +1,3 @@
-# Studying lists
+# Studying Python structures
 
-# This repository contains study code written without any use of AI.
+# 
